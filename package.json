@@ -1,7 +1,12 @@
 {
+  "name": "spider",
+  "version": "1.0",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "iconv-lite": "^0.4.19",
     "sync-request": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0"
   }
 }
